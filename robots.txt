@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-pd4zec.salamkita.cfd/sitemap.xml
